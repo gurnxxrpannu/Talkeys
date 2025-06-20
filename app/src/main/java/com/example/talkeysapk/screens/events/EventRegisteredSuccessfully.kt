@@ -1,4 +1,4 @@
-package com.example.talkeysapk.screensUI.events
+package com.example.talkeysapk.screens.events
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -22,8 +22,8 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import com.example.talkeysapk.screensUI.common.HomeTopBar
 import com.example.talkeysapk.R
+import com.example.talkeysapk.screens.common.HomeTopBar
 
 @Composable
 fun RegistrationSuccessScreen(navController: NavController) {

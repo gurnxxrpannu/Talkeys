@@ -1,4 +1,4 @@
-package com.example.talkeysapk.screensUI.home
+package com.example.talkeysapk.screens.home
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.core.animateFloatAsState
@@ -31,9 +31,9 @@ import androidx.compose.foundation.border
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.ui.draw.clip
-import com.example.talkeysapk.screensUI.common.Footer
-import com.example.talkeysapk.screensUI.common.HomeTopBar
 import com.example.talkeysapk.R
+import com.example.talkeysapk.screens.common.Footer
+import com.example.talkeysapk.screens.common.HomeTopBar
 
 
 @Composable

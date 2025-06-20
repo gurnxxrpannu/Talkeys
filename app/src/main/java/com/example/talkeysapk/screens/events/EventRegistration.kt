@@ -22,6 +22,7 @@ import androidx.navigation.NavController
 import com.example.talkeysapk.screensUI.common.Footer
 import com.example.talkeysapk.screensUI.common.HomeTopBar
 import com.example.talkeysapk.R
+import com.example.talkeysapk.screens.events.EventInputField
 
 @Composable
 fun EventRegistraion(navController: NavController) {

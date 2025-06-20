@@ -1,4 +1,4 @@
-package com.example.talkeysapk.screensUI.common
+package com.example.talkeysapk.screens.common
 
 import androidx.annotation.DrawableRes
 import androidx.compose.foundation.Image

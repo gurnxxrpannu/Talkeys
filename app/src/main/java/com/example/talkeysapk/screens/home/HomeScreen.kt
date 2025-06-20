@@ -28,13 +28,13 @@ import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 import com.example.talkeysapk.screensUI.common.BottomBar
 import com.example.talkeysapk.data.model.Event
-import com.example.talkeysapk.screensUI.common.EventCard
+import com.example.talkeysapk.screens.common.EventCard
 import com.example.talkeysapk.screensUI.common.Footer
 import com.example.talkeysapk.screensUI.common.HomeTopBar
 import com.example.talkeysapk.screensUI.common.InfluencerCard
 import com.example.talkeysapk.R
 import com.example.talkeysapk.data.model.InfluencerHomeScreen
-import com.example.talkeysapk.screensUI.community.CommunityRow
+import com.example.talkeysapk.screens.community.CommunityRow
 import com.example.talkeysapk.screensUI.events.CategoryTitle
 
 @OptIn(ExperimentalMaterial3Api::class)

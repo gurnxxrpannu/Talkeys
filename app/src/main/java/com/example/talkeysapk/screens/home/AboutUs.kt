@@ -1,4 +1,4 @@
-package com.example.talkeysapk.screensUI.home
+package com.example.talkeysapk.screens.home
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -33,9 +33,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.Dp
-import com.example.talkeysapk.screensUI.common.Footer
-import com.example.talkeysapk.screensUI.common.HomeTopBar
 import com.example.talkeysapk.R
+import com.example.talkeysapk.screens.common.Footer
+import com.example.talkeysapk.screens.common.HomeTopBar
 
 @Composable
 fun AboutUsScreen(navController: NavController) {

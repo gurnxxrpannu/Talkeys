@@ -1,4 +1,4 @@
-package com.example.talkeysapk.screensUI.authentication
+package com.example.talkeysapk.screens.authentication
 
 import androidx.compose.foundation.*
 import androidx.compose.foundation.layout.*
@@ -18,6 +18,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
 import com.example.talkeysapk.R
+import com.example.talkeysapk.screens.authentication.CustomOutlinedTextField
 
 @Composable
 fun LoginScreen(navController: NavController) {

@@ -1,4 +1,4 @@
-package com.example.talkeysapk.screensUI.common
+package com.example.talkeysapk.screens.common
 
 import androidx.compose.animation.animateColorAsState
 import androidx.compose.animation.core.FastOutSlowInEasing
